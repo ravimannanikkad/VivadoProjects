@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Vivado v2019.2.1 (64-bit)
+# SW Build 2729669 on Thu Dec  5 04:49:17 MST 2019
+# IP Build 2729494 on Thu Dec  5 07:38:25 MST 2019
+# Start of session at: Thu Jun  4 19:01:00 2020
+# Process ID: 8040
+# Current directory: C:/Users/ravim/OneDrive/Desktop/VivadoProjects/MB_Sensor/MB_Sensor.runs/MB_Sensor_mdm_1_2_synth_1
+# Command line: vivado.exe -log MB_Sensor_mdm_1_2.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source MB_Sensor_mdm_1_2.tcl
+# Log file: C:/Users/ravim/OneDrive/Desktop/VivadoProjects/MB_Sensor/MB_Sensor.runs/MB_Sensor_mdm_1_2_synth_1/MB_Sensor_mdm_1_2.vds
+# Journal file: C:/Users/ravim/OneDrive/Desktop/VivadoProjects/MB_Sensor/MB_Sensor.runs/MB_Sensor_mdm_1_2_synth_1\vivado.jou
+#-----------------------------------------------------------
+source MB_Sensor_mdm_1_2.tcl -notrace
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Arm/M3/vivado/Arm_ipi_repository'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2019.2/data/ip'.
+INFO: [IP_Flow 19-4838] Using cached IP synthesis design for IP MB_Sensor_mdm_1_2, cache-ID = edb7d63f8969fd99.
+INFO: [Common 17-206] Exiting Vivado at Thu Jun  4 19:01:07 2020...

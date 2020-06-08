@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2.1 (64-bit)
+# SW Build 2729669 on Thu Dec  5 04:49:17 MST 2019
+# IP Build 2729494 on Thu Dec  5 07:38:25 MST 2019
+# Start of session at: Thu Jun  4 19:51:29 2020
+# Process ID: 10068
+# Current directory: C:/Users/ravim/OneDrive/Desktop/VivadoProjects/MB_Sensor/MB_Sensor.runs/MB_Sensor_auto_pc_14_synth_1
+# Command line: vivado.exe -log MB_Sensor_auto_pc_14.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source MB_Sensor_auto_pc_14.tcl
+# Log file: C:/Users/ravim/OneDrive/Desktop/VivadoProjects/MB_Sensor/MB_Sensor.runs/MB_Sensor_auto_pc_14_synth_1/MB_Sensor_auto_pc_14.vds
+# Journal file: C:/Users/ravim/OneDrive/Desktop/VivadoProjects/MB_Sensor/MB_Sensor.runs/MB_Sensor_auto_pc_14_synth_1\vivado.jou
+#-----------------------------------------------------------
+source MB_Sensor_auto_pc_14.tcl -notrace

@@ -1,0 +1,8 @@
+set_property IOSTANDARD LVCMOS33 [get_ports UART_0_rxd]
+set_property IOSTANDARD LVCMOS33 [get_ports UART_0_txd]
+set_property IOSTANDARD LVCMOS33 [get_ports reset_clk]
+set_property IOSTANDARD LVCMOS33 [get_ports reset_proc]
+set_property PACKAGE_PIN Y18 [get_ports UART_0_rxd]
+set_property PACKAGE_PIN Y19 [get_ports UART_0_txd]
+set_property PACKAGE_PIN D20 [get_ports reset_clk]
+set_property PACKAGE_PIN D19 [get_ports reset_proc]
